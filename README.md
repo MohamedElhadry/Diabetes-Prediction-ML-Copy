@@ -17,6 +17,8 @@ The project emphasizes the complete workflow rather than accuracy alone: underst
 
 This project uses the **Pima Indians Diabetes Dataset**.
 
+**Dataset source:** [Download the `diabetes.csv` file used in this project](https://github.com/npradaschnor/Pima-Indians-Diabetes-Dataset/raw/refs/heads/master/diabetes.csv). For dataset details and background, see the [Pima Indians Diabetes Database on Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database).
+
 | Item | Value |
 |---|---:|
 | Records | 768 |
