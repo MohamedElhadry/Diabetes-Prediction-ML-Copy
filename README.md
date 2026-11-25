@@ -165,10 +165,11 @@ python -m pip install -r requirements.txt
 ### 4. Open the notebook
 
 ```bash
-jupyter notebook preprocessing_project/preprocessing.ipynb
+cd preprocessing_project
+jupyter notebook preprocessing.ipynb
 ```
 
-Run the notebook cells from top to bottom. Keep `diabetes.csv` in the same directory as the notebook.
+Run the notebook cells from top to bottom. The command above starts Jupyter from the notebook's directory, so the relative path `diabetes.csv` resolves correctly.
 
 ## Repository Structure
 
